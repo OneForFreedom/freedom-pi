@@ -19,3 +19,10 @@ It's pretty meh, So far its a 1:1 copy, but hopefully it's not horrible.
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjU1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--0ee1419d40e2a8cfd50401ddfd7d3a6f876519c8/image.png)
   
 
+## 10/19/2025 - Finally done with the schematic  
+
+I made sooooo many erc errors as i just went through it without reading it, i prtty much had to redo it like 10 times, hence why it took soo long. uhh but at the end, i finally finished the schematic, although i prolly will come back to it to add 4 sw_pushes and uhh yea. just pray to god i dont mess up.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--3e772722a7c9cc3a766899a9e1e85fe13cbac736/image.png)
+  
+
